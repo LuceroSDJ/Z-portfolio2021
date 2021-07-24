@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio2021/static/css/main.f0fe640b.chunk.css",
-    "main.js": "/portfolio2021/static/js/main.21f26062.chunk.js",
-    "main.js.map": "/portfolio2021/static/js/main.21f26062.chunk.js.map",
+    "main.css": "/portfolio2021/static/css/main.01359b02.chunk.css",
+    "main.js": "/portfolio2021/static/js/main.728be051.chunk.js",
+    "main.js.map": "/portfolio2021/static/js/main.728be051.chunk.js.map",
     "runtime-main.js": "/portfolio2021/static/js/runtime-main.0ef997d0.js",
     "runtime-main.js.map": "/portfolio2021/static/js/runtime-main.0ef997d0.js.map",
     "static/js/2.aada0fed.chunk.js": "/portfolio2021/static/js/2.aada0fed.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.f8805789.chunk.js": "/portfolio2021/static/js/3.f8805789.chunk.js",
     "static/js/3.f8805789.chunk.js.map": "/portfolio2021/static/js/3.f8805789.chunk.js.map",
     "index.html": "/portfolio2021/index.html",
-    "static/css/main.f0fe640b.chunk.css.map": "/portfolio2021/static/css/main.f0fe640b.chunk.css.map",
+    "static/css/main.01359b02.chunk.css.map": "/portfolio2021/static/css/main.01359b02.chunk.css.map",
     "static/js/2.aada0fed.chunk.js.LICENSE.txt": "/portfolio2021/static/js/2.aada0fed.chunk.js.LICENSE.txt",
     "static/media/IMG_8902.6fd7d9b3.jpeg": "/portfolio2021/static/media/IMG_8902.6fd7d9b3.jpeg",
     "static/media/bamazonDisplayData.107b2374.png": "/portfolio2021/static/media/bamazonDisplayData.107b2374.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.0ef997d0.js",
     "static/js/2.aada0fed.chunk.js",
-    "static/css/main.f0fe640b.chunk.css",
-    "static/js/main.21f26062.chunk.js"
+    "static/css/main.01359b02.chunk.css",
+    "static/js/main.728be051.chunk.js"
   ]
 }
